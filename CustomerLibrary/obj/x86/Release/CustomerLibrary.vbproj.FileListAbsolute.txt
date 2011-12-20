@@ -1,0 +1,21 @@
+E:\karno\MaruniProductionAddonRev15\MaruniProductionAddonRev15\MDSPROD\CustomerLibrary\bin\x86\Release\CustomerLibTemplate.dll
+E:\karno\MaruniProductionAddonRev15\MaruniProductionAddonRev15\MDSPROD\CustomerLibrary\bin\x86\Release\CustomerLibTemplate.xml
+E:\karno\MaruniProductionAddonRev15\MaruniProductionAddonRev15\MDSPROD\CustomerLibrary\obj\x86\Release\ResolveAssemblyReference.cache
+E:\karno\MaruniProductionAddonRev15\MaruniProductionAddonRev15\MDSPROD\CustomerLibrary\obj\x86\Release\CustomerLibTemplate.CustomInstallerClass.resources
+E:\karno\MaruniProductionAddonRev15\MaruniProductionAddonRev15\MDSPROD\CustomerLibrary\obj\x86\Release\CustomerLibrary.vbproj.GenerateResource.Cache
+E:\karno\MaruniProductionAddonRev15\MaruniProductionAddonRev15\MDSPROD\CustomerLibrary\obj\x86\Release\CustomerLibTemplate.dll
+E:\karno\MaruniProductionAddonRev15\MaruniProductionAddonRev15\MDSPROD\CustomerLibrary\obj\x86\Release\CustomerLibTemplate.xml
+E:\GITRepo\MDSProd\MDSPROD\CustomerLibrary\bin\x86\Release\CustomerLibTemplate.dll
+E:\GITRepo\MDSProd\MDSPROD\CustomerLibrary\bin\x86\Release\CustomerLibTemplate.xml
+E:\GITRepo\MDSProd\MDSPROD\CustomerLibrary\obj\x86\Release\ResolveAssemblyReference.cache
+E:\GITRepo\MDSProd\MDSPROD\CustomerLibrary\obj\x86\Release\CustomerLibTemplate.CustomInstallerClass.resources
+E:\GITRepo\MDSProd\MDSPROD\CustomerLibrary\obj\x86\Release\CustomerLibrary.vbproj.GenerateResource.Cache
+E:\GITRepo\MDSProd\MDSPROD\CustomerLibrary\obj\x86\Release\CustomerLibTemplate.dll
+E:\GITRepo\MDSProd\MDSPROD\CustomerLibrary\obj\x86\Release\CustomerLibTemplate.xml
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_PROD_Installer\CustomerLibrary\bin\x86\Release\CustomerLibTemplate.dll
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_PROD_Installer\CustomerLibrary\bin\x86\Release\CustomerLibTemplate.xml
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_PROD_Installer\CustomerLibrary\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_PROD_Installer\CustomerLibrary\obj\x86\Release\CustomerLibTemplate.CustomInstallerClass.resources
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_PROD_Installer\CustomerLibrary\obj\x86\Release\CustomerLibrary.vbproj.GenerateResource.Cache
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_PROD_Installer\CustomerLibrary\obj\x86\Release\CustomerLibTemplate.dll
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_PROD_Installer\CustomerLibrary\obj\x86\Release\CustomerLibTemplate.xml
